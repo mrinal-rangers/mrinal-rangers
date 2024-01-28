@@ -7,7 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://mrinal-vs-code-resume.vercel.app/](https://mrinal-vs-code-resume.vercel.app/)
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Mrinal-Deb](https://www.quora.com/profile/Mrinal-Deb)
 
 - 💬 Ask me about **React , JS , DSA**
 
