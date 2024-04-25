@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinal-rangers&label=Profile%20views&color=0e75b6&style=flat" alt="mrinal-rangers" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
-
 - 👨‍💻 All of my projects are available at [https://mrinal-vs-code-resume.vercel.app/](https://mrinal-vs-code-resume.vercel.app/)
 
 
