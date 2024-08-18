@@ -7,7 +7,7 @@
 - 💬 Ask me about **React.JS , DSA**
 
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/rewa-chaudhary-a8490124b/](https://www.linkedin.com/in/rewa-chaudhary-a8490124b/))
+- 📄 Know about my experiences [https://www.linkedin.com/in/rewa-chaudhary-a8490124b/](https://www.linkedin.com/in/rewa-chaudhary-a8490124b/)
 
 - ⚡ Fun fact **I am good at Chess**
 
