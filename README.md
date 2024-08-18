@@ -1,16 +1,13 @@
-<h1 align="center">Hi 👋, I'm Mrinal Deb</h1>
-<h3 align="center">A 3rd year CSE student DTU , Upcoming SWE intern Microsoft</h3>
+<h1 align="center">Hi 👋, I'm Rewa Chaudhary</h1>
+<h3 align="center">A 4th year ECE-AI student IGDTUW </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrinal-rangers&label=Profile%20views&color=0e75b6&style=flat" alt="mrinal-rangers" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://mrinal-vs-code-resume.vercel.app/](https://mrinal-vs-code-resume.vercel.app/)
+
+- 💬 Ask me about **React.JS , DSA**
 
 
-- 💬 Ask me about **React , JS , DSA**
-
-- 📫 How to reach me **mrinalenquiry@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/mrinal-deb/](https://www.linkedin.com/in/mrinal-deb/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/rewa-chaudhary-a8490124b/](https://www.linkedin.com/in/rewa-chaudhary-a8490124b/))
 
 - ⚡ Fun fact **I am good at Chess**
 
