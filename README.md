@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rewa-chaudhary-a8490124b/](https://www.linkedin.com/in/rewa-chaudhary-a8490124b/)
 
-- ⚡ Fun fact **I am a cat mom (Jerry the pookie cat)*
+- ⚡ Fun fact **I am a cat mom (Jerry the pookie cat)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
